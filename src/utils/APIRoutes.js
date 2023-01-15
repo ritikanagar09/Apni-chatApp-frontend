@@ -1,4 +1,4 @@
-export const host = "https://chatapp-api-ckqx.onrender.com";
+export const host = "https://apnichatapi.onrender.com";
 export const loginRoute = `${host}/api/auth/login`;
 export const registerRoute = `${host}/api/auth/register`;
 export const logoutRoute = `${host}/api/auth/logout`;
